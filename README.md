@@ -1,2 +1,1 @@
-# PlayMario.org
-PlayMario.org is a free HTML5 remake of original Super Mario Bros. Play it here &mdash;  https://playmario.org
+Um so this is a fork of the og repo dont look at mine its bad look at the original the original is very very gooder
